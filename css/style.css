@@ -1,14 +1,18 @@
 body {
     margin: 0 0;
     padding: 0 0;
-    background: url('../img/galaxy.jpeg');
+    background: url('../img/planetas.avif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 
-.Login {
+.login {
     height: 100vh;
     align-items: center;
+}
+
+.fundoroxo{
+    background-color: rgb(192, 159, 216);
 }
