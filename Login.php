@@ -13,7 +13,7 @@
         <div class="card w-100" style="max-width: 400px;">
             <div class="card-body fundoroxo">
             <header class="text-center text-white p-4 ">
-                <small class="text-muted">Login do Sistema</small>
+                <div class="text-center"><h2>Login do Sistema</h2></div>
             </header>
                 <form>
                     <div class="form-group">
