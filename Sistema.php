@@ -22,7 +22,7 @@ session_start();
     <div class="col-12 col-sm-8 col-md-6">
         <div class="alert alert-info mt-3">
             <h4 class="text-center">
-             Dashboard do Sistema
+             Página inicial do Sistema
              <?php
            echo "<h4 class='alert-heading mt-3 mr-5 ml-5 text-center'>Bem vindo ao sistema ". $_SESSION['usuario'] ."!</h4>";
              ?>

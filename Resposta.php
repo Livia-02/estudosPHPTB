@@ -31,7 +31,7 @@ if($_POST['usuario']  == 'admin' && $_POST['senha'] == 'senha'){
     echo "<h4 class='alert-heading mt-3 mr-5 ml-5'>Seja bem vindo ao sistema ". $_SESSION['usuario'] ."!</h4>";
     ?>
      <form action="Sistema.php" method="POST">
-  <button type="submit" class="btn btn-outline-dark btn-block mt-4 mb-4">Ir para a proxima pagina</button>
+  <button type="submit" class="btn btn-outline-dark btn-block mt-4 mb-4">Ir para a proxima página</button>
 </form>
 </div>
   </div>
